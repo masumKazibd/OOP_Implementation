@@ -1,0 +1,8 @@
+H:\IsDB  class docmnt\drill 02\drill 02\bin\Debug\drill 02.exe.config
+H:\IsDB  class docmnt\drill 02\drill 02\bin\Debug\drill 02.exe
+H:\IsDB  class docmnt\drill 02\drill 02\bin\Debug\drill 02.pdb
+H:\IsDB  class docmnt\drill 02\drill 02\obj\Debug\drill 02.csproj.AssemblyReference.cache
+H:\IsDB  class docmnt\drill 02\drill 02\obj\Debug\drill 02.csproj.SuggestedBindingRedirects.cache
+H:\IsDB  class docmnt\drill 02\drill 02\obj\Debug\drill 02.csproj.CoreCompileInputs.cache
+H:\IsDB  class docmnt\drill 02\drill 02\obj\Debug\drill 02.exe
+H:\IsDB  class docmnt\drill 02\drill 02\obj\Debug\drill 02.pdb
